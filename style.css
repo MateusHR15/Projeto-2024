@@ -1,5 +1,6 @@
 body {
 color: "black";
 background: "green";
-  
+  border-bottom: 2px
+  padding: 20px
 }
